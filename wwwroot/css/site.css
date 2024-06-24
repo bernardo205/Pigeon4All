@@ -1,0 +1,238 @@
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.montserrat-italic {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.montserrat-bold {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+ body {
+    overflow-x: hidden;
+}
+
+p {
+    font-family: Montserrat;
+}
+
+header {
+    transition:1s ease;
+}
+
+.scrolled {
+    background-color: white
+}
+
+.menu {
+    width: 125px;
+    height: 95px;
+}
+
+.nav-links {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    row-gap: 25px;
+    position: relative;
+    top: 15px;
+    opacity: 0;
+    transition: 0.5s ease;
+}
+
+.nav-links a {
+    color: black;
+    text-decoration: none;
+}
+
+    .menu:hover > .nav-links {
+        opacity: 1;
+    }
+
+    .scrolled .menu {
+        height: 60px !important;
+    }
+
+    .menu svg {
+        vertical-align: middle;
+        fill: white;
+        width: 35px;
+        margin-left: 35px;
+        margin-top: 35px;
+    }
+
+.scrolled .menu svg {
+    fill: black;
+    margin-top: 10px;
+}
+
+    .menu span {
+        text-transform: uppercase;
+        font-family: Montserrat;
+        color: #ccc;
+        font-size: 8px;
+        position: relative;
+        left: -30px;
+        top: 35px;
+    }
+
+.scrolled .menu span {
+    top: 22px;
+    color: black;
+}
+
+.col-1 .menu {
+    padding: 0;
+}
+
+.bar {
+    margin: 0;
+    padding: 0;
+}
+
+header .col-10 {padding: 0}
+
+.col-10 img {
+    width: 320px;
+    height: 65px;
+    margin-top: 25px;
+    margin-left: 15px;
+    object-fit: contain;
+}
+
+.scrolled .col-10 img {
+    width: 170px;
+    height: 50px;
+    margin-top: 3px;
+    margin-left: 25px;
+}
+
+.col-2 svg {
+    vertical-align: middle;
+    fill: white;
+    width: 15px;
+    position: relative;
+    top: 40px;
+    left: 105px;
+}
+
+.scrolled .col-2 svg {
+    top: 12px;
+    fill: black
+}
+
+.col-2 span {
+    text-transform: uppercase;
+    font-family: Montserrat;
+    color: #c2c2c2;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: 40px; 
+    left: 120px;
+}
+
+.scrolled .col-2 span {
+    top: 10px;
+    color: black;
+}
+
+.bi-chevron-down::before {
+    font-size: 7px;
+    margin-left: 10px;
+}
+
+footer {
+    background-color: black;
+    border-radius: 10px 10px 0 0;
+    height: 370px;
+    width: 100%;
+}
+
+.footer-top, .footer-bottom {
+    width: 100%;
+}
+
+.footer-top {
+    height: 305px;
+    border-bottom: 1px solid;
+}
+
+    .f-logo img {
+        width: 215px;
+        position: relative;
+        top: 105px;
+        left: 55px;
+    }
+
+    .f-links .col-3 {
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+        padding-top: 130px;
+        row-gap: 17px;
+    }
+
+    .f-links a {
+        font-family: Montserrat;
+        text-transform: uppercase;
+        color: #b2b2b2 !important;
+        font-size: 12px;
+    }
+
+    .c-1 {
+        padding-left: 10px !important;
+    }
+
+.c-3 {
+    padding-left: 65px !important;
+    width: 305px;
+}
+
+.col {
+    padding-top: 20px !important;
+}
+
+.social {
+    display: flex;
+    gap: 22px;
+    padding-left: 85px;
+}
+
+.social div {
+    padding-top: 25px;
+}
+
+.social svg {
+    width: 35px;
+}
+
+.social circle {
+    fill: white;
+}
+
+.social path {
+    fill: #d8ad55;
+}
+
+.social p {
+    font-size: 12px;
+    margin-top: 30px;
+    position: absolute;
+    right: 65px;
+    color: #d5d5d5
+}

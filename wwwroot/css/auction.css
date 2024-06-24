@@ -1,0 +1,287 @@
+﻿main nav {
+    transform: rotate(-90deg);
+    position: absolute;
+    left: -40px;
+    top: 360px;
+}
+
+main ul {
+    display: flex;
+    list-style-type: none;
+    gap: 15px;
+    position: relative;
+}
+
+main li {
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.icon {
+    position: absolute;
+    transform: rotate(90deg);
+    right: -70px;
+    top: -15px;
+}
+
+    .icon svg {
+        height: 45px;
+        width: 45px;
+        fill: #D8AD55;
+        stroke: black;
+        stroke-width: 1px;
+    }
+
+.explain {
+    width: 100%;
+    height: 1500px;
+    margin-left: 115px;
+    border-left: 1px solid #ebebeb;
+}
+
+.top {
+    width: 100%;
+    height: 445px;
+
+    display: flex;
+}
+
+    .top img {
+        width: 530px;
+        height: 400px;
+        position: relative;
+        top: 44px;
+        left: 38px;
+        border-radius: 15px;
+        object-fit: cover;
+        border: 1px solid;
+    }
+
+.text-area a {
+    font-family: Montserrat;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ccc;
+    font-size: 10px;
+    position: relative;
+    left: 785px;
+    top: 7px;
+}
+
+.p1-1 {
+    color: #d8ad55;
+    text-transform: uppercase;
+    font-size: 12px;
+    position: relative;
+    left: 110px;
+    top: 35px;
+}
+
+.p1-2 {
+    font-weight: bold;
+    font-size: 47px;
+    line-height: 1.2;
+    position: relative;
+    left: 85px;
+    top: 25px;
+}
+
+.p1-3 {
+    font-size: 14px;
+    line-height: 1.4;
+    font-weight: 500;
+    position: relative;
+    left: 85px;
+    top: 30px;
+}
+
+.bottom {
+    margin-top: 75px;
+    padding-left: 35px;
+    display: flex;
+    gap: 25px;
+}
+
+.licitacao {
+    background-color: white;
+    border: 2px solid lightgray;
+    border-radius: 20px;
+    height: 600px;
+    width: 305px;
+    position: relative;
+}
+
+.elipse {
+    width: 100%;
+    height: 200px;
+    clip-path: ellipse(16% 43% at 52% -19%);
+    background: black;
+    position: absolute;
+    z-index: 10;
+}
+
+    .elipse span {
+        position: absolute;
+        top: 12px;
+        left: 145px;
+        color: #D8AD55;
+        font-size: 14px;
+        font-weight: bold;
+        font-family: Montserrat;
+    }
+
+.licitacao img {
+    width: 100%;
+    height: 305px;
+    border-radius: 20px 20px 0 0;
+    object-fit: cover;
+    padding-top: 11px;
+    transform: scale(0.9);
+}
+
+.info-area {
+    height: 110px;
+}
+
+.p2-3 span svg {
+    width: 20px;
+}
+
+.p2-3 {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+    position: relative;
+    left: 60px;
+    top: -2px;
+}
+
+.p2-4 {
+    font-size: 11px;
+    font-weight: bold;
+    font-style: italic;
+    position: relative;
+    left: 35px;
+    top: -5px;
+}
+
+.p2-5 {
+    font-size: 13px;
+    color: #D8AD55;
+    position: relative;
+    left: 65px;
+}
+
+.p2-6 {
+    font-size: 11px;
+    text-align: center;
+    position: relative;
+    top: -12px;
+    line-height: 1.1;
+}
+
+.temp {
+    margin-top: 25px;
+    margin-left: 20px;
+    background-color: #fbf7ee;
+    width: 265px;
+    height: 35px;
+    display: flex;
+}
+
+.temp svg {
+    width: 20px;
+    height: 17px;
+}
+
+.temp p {
+    font-weight: bold;
+    font-size: 12.5px;
+}
+
+.time {
+    width: 175px;
+    height: 17px;
+    border-right: 1px solid #e2ded5;
+    display: flex;
+    gap: 0;
+    margin-top: 5px;
+}
+
+    .time svg {
+
+        position: relative;
+        left: 15px;
+    }
+
+    .time p {
+
+        position: relative;
+        left: 18px;
+    }
+
+.num {
+    display: flex;
+    margin-top: 5px;
+}
+
+.num svg {
+    fill: white;
+    stroke: black;
+    stroke-width: 8px;
+    position: relative;
+    left: 23px;
+}
+
+.num p {
+    position: relative; 
+    left: 35px;
+}
+
+.offer {
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+    position: relative;
+}
+
+.p2-7 {
+    font-size: 11px;
+    position: absolute;
+    left: 30px;
+}
+
+.p2-8 {
+    font-weight: 800;
+    font-size: 12px;
+    position: absolute;
+    top: 15px;
+    left: 30px;
+}
+
+.p2-9 {
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 7px;
+    right: 27px;
+}
+
+.licitacao a {
+    position: absolute;
+    bottom: 19px;
+    left: 19px;
+}
+
+.licitacao button {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-family: 'MONTSERRAT';
+    background-color: black;
+    color: white;
+    width: 265px;
+    height: 50px;
+    border-radius: 40px;
+}

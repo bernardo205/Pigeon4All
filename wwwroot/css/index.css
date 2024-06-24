@@ -1,0 +1,854 @@
+﻿.carousel {
+    position: relative;
+    width: 100%;
+    height: 765px;
+    overflow: hidden;
+}
+
+.inner {
+    transition: transform 0.5s ease;
+}
+
+.carousel-item {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: opacity 1s ease;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 765px;
+    display: block;
+}
+
+.caption {
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    border-left: 1px solid #ccc;
+    margin-left: 110px;
+    position: absolute;
+    top: 0;
+}
+
+.caption p {
+    position: absolute;
+}
+
+.p1-1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+    top: 310px;
+    left: 40px;
+    letter-spacing: .5px;
+}
+
+.p1-2 {
+    font-size: 55px;
+    font-weight: bold;
+    top: 330px;
+    left: 40px;
+    letter-spacing: .5px;
+}
+
+.p1-3 {
+    top: 430px;
+    left: 40px;
+    letter-spacing: .1px;
+    font-size: 16px;
+}
+
+.caption button {
+    background-color: transparent;
+    position: absolute;
+    left: 45px;
+    top: 520px;
+    border: 2px solid white;
+    color: white;
+    text-align: start;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 13px;
+    padding-left: 25px;
+    padding-top: 0px;
+    height: 55px;
+    width: 265px;
+    border-radius: 40px;
+}
+
+.caption .svg {
+    fill: white;
+    width: 13px;
+    height: 13px;
+    stroke: white;
+    stroke-width: 6px;
+    position: absolute;
+    right: 23px;
+    top: 20px;
+}
+
+.carousel-indicators {
+    position: absolute;
+    top: 345px;
+    left: 55px;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    /*remover coisas do bootstrap*/
+    right: unset;
+    bottom: unset;
+    z-index: 2;
+    justify-content: unset;
+    padding: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    list-style: none;
+}
+
+.indicator::after {
+    content: '';
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.indicator {
+    width: 35px;
+    height: 35px;
+    position: relative;
+}
+
+.circular-chart {
+    width: 100%;
+    height: 100%;
+}
+
+.circle-bg {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1px;
+}
+
+.circle {
+    fill: none;
+    stroke-width: 1.8px;
+    stroke-linecap: round;
+    transform: rotate(-90deg);
+    transform-origin: center;
+    stroke: #fff;
+    stroke-dasharray: 100, 100;
+    stroke-dashoffset: 100;
+}
+
+.circle-center {
+    fill: white;
+}
+
+.indicator.active .circle {
+    animation: countdown 30s linear forwards;
+}
+
+@keyframes countdown {
+    from {
+        stroke-dashoffset: 100;
+    }
+
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+
+.carousel-numeric-indicator {
+    position: absolute;
+    top: 355px;
+    right: 75px;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 24px;
+    font-family: Montserrat;
+}
+
+#current-slide {
+    font-size: 60px;
+    font-weight: bold;
+    position: relative;
+    top: 22px;
+}
+
+
+.countdown-timer {
+    display: flex;
+    gap: 10px;
+    height: 155px;
+    width: 455px;
+    border-radius: 30px 0 0 0;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.p1-4 {
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 12px;
+    position: absolute;
+    top: 35px;
+    left: 30px;
+}
+
+.countdown-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 55px;
+    left: 15px;
+}
+
+.countdown-circle {
+    width: 60px;
+    height: 65px;
+    position: relative;
+}
+
+.countdown-bg {
+    fill: none;
+    stroke: #D8AD55;
+    stroke-width: 1px;
+}
+
+.countdown-text {
+    font-size: 12px;
+    text-anchor: middle;
+    stroke: black;
+}
+
+.countdown-label {
+    margin-top: 0px;
+    font-size: 8px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.countdown-btn {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    right: 50px;
+    bottom: 35px;
+}
+
+.countdown-btn svg {
+    fill: white;
+    width: 14px;
+}
+
+.leiloes {
+    width: 100%;
+    height: 1550px;
+    background-color: black;
+    background-image: url(../img/Imagens/pigeon4all-licite-pombo-21.png);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position-x: 200px;
+    background-position-y: 80px;
+}
+
+.top-section {
+    width: 100%;
+    height: 190px;
+    position: relative;
+}
+
+.p2-1 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    position: absolute;
+    top: 90px;
+    left: 60px;
+}
+
+.p2-2 {
+    color: white;
+    font-weight: bold;
+    font-size: 54px;
+    position: absolute;
+    top: 120px;
+    left: 45px;
+}
+
+.top-section button {
+    background-color: transparent;
+    border: 1px solid #D8AD55;
+    color: #D8AD55;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-size: 13px;
+    border-radius: 30px;
+    height: 60px;
+    width: 175px;
+    position: absolute;
+    bottom: 0;
+    right: 58px;
+}
+
+.cards {
+    width: 100%;
+    height: 420px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+    gap: 20px;
+}
+
+.licitacao {
+    background-color: white;
+    border-radius: 20px;
+    height: 100%;
+    width: 265px;
+    position: relative;
+}
+
+.elipse {
+    width: 100%;
+    height: 200px;
+    clip-path: ellipse(16% 43% at 50% -20%);
+    background: black;
+    position: absolute;
+}
+
+    .elipse span {
+        position: absolute;
+        top: 12px;
+        left: 122px;
+        color: #D8AD55;
+        font-size: 14px;
+        font-weight: bold;
+        font-family: Montserrat;
+    }
+
+.licitacao img {
+    width: 100%;
+    height: 280px;
+    border-radius: 20px 20px 0 0;
+    object-fit: cover;
+    padding-top: 30px;
+}
+
+.p2-3 span svg {
+    width: 20px;
+}
+
+.p2-3 {
+    font-weight: bold;
+    position: relative; 
+    left: 50px;
+}
+
+.p2-4 {
+    font-size: 9px;
+    font-weight: bold;
+    position: relative;
+    left: 25px;
+    top: -15px;
+}
+
+.p2-5 {
+    font-size: 11px;
+    color: #D8AD55;
+    position: relative;
+    top: -30px;
+    left: 50px;
+}
+
+.last {
+    width: 230px;
+    height: 55px;
+    position: relative;
+    background-color: #fbf7ee;
+    left: 20px;
+    top: -35px;
+    border-radius: 6px;
+}
+
+.icon {
+    position: relative;
+    left: 10px;
+    top: 15px;
+}
+
+.icon svg {
+    width: 20px;
+    height: 20px;
+    fill: #D8AD55;  
+}
+
+.p2-6 {
+    font-size: 10px;
+    position: absolute;
+    top: 15px;
+    left: 45px;
+}
+
+.p2-7 {
+    font-weight: bold;
+    font-size: 10px;
+    position: absolute;
+    top: 30px;
+    left: 44px;
+}
+
+.p2-8 {
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top: 16px;
+    right: 0;
+}
+
+.destaques {
+    position: relative;
+    height: 245px;
+}
+
+.t-s .p2-1 {
+    top: 155px;
+}
+
+.t-s .p2-2 {
+    top: 180px;
+}
+
+.t-s button {
+    background-color: transparent;
+    border: 1px solid #D8AD55;
+    color: #D8AD55;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-size: 13px;
+    border-radius: 30px;
+    height: 60px;
+    width: 175px;
+    position: absolute;
+    bottom: 0px;
+    right: 280px;
+}
+
+.card-slider {
+    position: relative;
+    width: 1000%;
+    height: 565px;
+    display: flex;
+    padding-top: 45px;
+    padding-left: 25px;
+    gap: 25px;
+    overflow-x: auto;
+    transition: transform 0.5s ease-in-out;
+    z-index: 10;
+}
+
+.d-card {
+    width: 340px;
+    height: 515px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    transition: transform 0.5s ease-in-out;
+    position: relative;
+    background-color: white;
+}
+
+.activ {
+    width: 475px;
+}
+
+.d-card img {
+    width: 100%;
+    height: 330px;
+    border-radius: 20px 20px 0 0 ;
+    object-fit: cover;
+}
+
+.p2-9 {
+    font-weight: bold;
+    position: relative;
+    left: 20px;
+    top: 30px;
+}
+
+.activ .p2-9 {
+    left: 30px;
+}
+
+.p2-10 {
+    font-size: 11px;
+    position: relative;
+    left: 20px;
+    top: 40px;
+    line-height: 1.3;
+    width: 315px;
+}
+
+.activ .p2-10 {
+    left: 30px;
+}
+
+.p2-11 {
+    font-size: 11px;
+    color: #D8AD55;
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+
+.activ .p2-11 {
+    left: 30px;
+}
+
+.d-card button {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    right: 35px;
+    bottom: 30px;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.d-card button svg {
+    fill: white;
+    width: 14px;
+}
+
+.d-card.activ button {
+    opacity: 1;
+}
+
+.t1 {
+    background-color: #C0272D;
+    color: white;
+    border-radius: 20px;
+    font-size: 8px;
+    width: 135px;
+    height: 33px;
+    position: absolute;
+    left: 33px;
+    top: 310px;
+    padding-top: 10px;
+    padding-left: 17px;
+}
+
+.t2 {
+    background-color: #D8AD55;
+    color: black;
+    border-radius: 20px;
+    font-size: 10px;
+    width: 135px;
+    height: 33px;
+    padding-top: 10px;
+    padding-left: 17px;
+    font-weight: bold;
+    position: absolute;
+    left: 33px;
+    top: 310px;
+}
+
+.activ .t2 {
+    left: 180px;
+    top: 310px;
+}
+
+.t2 svg {
+    fill: black !important;
+}
+
+.tags svg {
+    width: 15.5px;
+    height: 15.5px;
+    fill: white;
+    position: relative;
+    right: 5px;
+    top: -1px;
+}
+
+#prev {
+    width: 80px;
+    height: 75px;
+    border-radius: 50%;
+    border: 0;
+    background-color: transparent;
+    fill: white;
+    position: relative;
+    left: 1260px;
+    bottom: 630px;
+}
+
+#next {
+    width: 80px;
+    height: 75px;
+    border-radius: 50%;
+    border: 0;
+    background-color: transparent;
+    fill: white;
+    position: relative;
+    left: 1270px;
+    bottom: 630px;
+}
+
+.news {
+    position: relative;
+    border: 1px solid; 
+    width: 100%;
+    height: 1080px;
+}
+
+.p3-1 {
+    color: black;   
+    text-transform: uppercase;
+    font-size: 12px;
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+
+.p3-2 {
+    color: black;   
+    font-weight: bold;
+    font-size: 54px;
+    position: absolute;
+    top: 65px;
+    left: 45px;
+}
+
+.news .top-section button {
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-size: 13px;
+    border-radius: 30px;
+    height: 60px;
+    width: 110px;
+    z-index: 10;
+    position: absolute;
+    top: 70px;
+    right: 47px;
+}
+
+.top-section span{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.left {
+    display: flex;
+    padding-left: 35px;
+    gap: 20px;
+}
+
+.n-card {
+    width: 464px;
+    height: 515px;
+    border-radius: 20px;
+    position: relative;
+    top: -25px;
+    background-color: lightblue;
+    z-index: 10;
+}
+
+.n-card img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.text {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 165px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.date {
+    color: white;
+    width: 68px;
+    height: 85px;
+    border-radius: 5px;
+    background-color: #d8ad55;
+    padding-left: 18px;
+    position: relative;
+    left: 30px;
+    top: -25px;
+}
+
+.date p {
+    margin: 0;
+}
+
+.d-1 {
+    font-size: 28px;
+    font-weight: bold;
+    position: relative;
+    top: 8px;
+}
+
+.d-2 {
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px; 
+    position: relative;
+    top: -5px;
+}
+
+.d-3 {
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    position: relative;
+    top: -7px;
+}
+
+.type {
+    text-transform: uppercase;
+    color: #D8AD55;
+    letter-spacing: 1px;
+    font-size: 11px;
+    position: relative;
+    top: -50px;
+    left: 115px;
+}
+
+    .type span {
+        position: relative;
+        left: -5px;
+        top: -3px;
+    }
+
+.title {
+    color: white;
+    font-weight: bold;
+    font-size: 14.3px;
+    line-height: 1.2;
+    position: relative;
+    top: -45px;
+    left: 30px;
+}
+
+.right {
+    width: 760px;
+    height: 1060px;
+    background-color: #d8ad55;
+    z-index: 0;
+    position: absolute;
+    top: -320px;
+    right: 0;
+}
+
+.events-area {
+    width: 490px;
+    height: 590px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    padding-top: 5px;
+}
+
+.event {
+    position: relative;
+}
+
+.ev-date {
+    color: white;
+    width: 68px;
+    height: 85px;
+    border-radius: 5px;
+    background-color: black;
+    padding-left: 18px;
+    position: relative;
+    left: 12px;
+    top: 8px;
+}
+
+    .ev-date p {
+        margin: 0;
+    }
+
+.ev-type {
+    text-transform: uppercase;
+    color: black;
+    letter-spacing: 1px;
+    font-size: 12px;
+    position: relative;
+    top: -79px;
+    left: 95px;
+}
+
+    .ev-type span {
+        position: relative;
+        left: -5px;
+        top: -3px;
+    }
+
+.ev-title {
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 1.2;
+    position: absolute;
+    top: 35px;
+    left: 92px;
+}
+
+.bottom {
+    width: 100%;
+    height: 170px;
+    position: relative;
+    margin-top: 105px;
+}
+
+    .bottom p {
+        text-transform: uppercase;
+        color: #ccc;
+        position: absolute;
+        top: 0;
+        left: 45px;
+    }
+
+    .cartao {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        padding-left: 45px;
+        padding-top: 37px;
+        gap: 18px;
+    }
+
+        .cartao img {
+            width: 270px;
+            height: 126px;
+            border-radius: 10px;
+            object-fit: cover;
+        }

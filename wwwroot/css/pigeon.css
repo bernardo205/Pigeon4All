@@ -1,0 +1,592 @@
+﻿main {
+    background-color: #f9f9f9;
+}
+
+.out-btn {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    height: 100%;
+    width: 115px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 205px;
+    padding-left: 30px;
+    margin-top: 60px;
+}
+
+.out-btn button {
+    border: 0;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.prod-area {
+    width: 100%;
+    height: 920px;
+    margin-left: 115px;
+    border-left: 1px solid #ebebeb;
+    display: flex;
+}
+
+.left {
+    width: 30%;
+}
+
+.top {
+    height: 125px;
+}
+
+.prev {
+    width: 80px;
+    height: 75px;
+    border: 0;
+    background-color: transparent;
+    fill: black;
+    position: relative;
+    top: 50px;
+    left: 28px;
+}
+
+.next {
+    width: 80px;
+    height: 75px;
+    border-radius: 50%;
+    border: 0;
+    background-color: transparent;
+    fill: black;
+    position: relative;
+    top: 50px;
+    left: 25px;
+}
+
+.info {
+    height: 200px;
+}
+
+.p1-1 {
+    margin: 0;
+    color: #D8AD55;
+    font-size: 12px;
+    position: relative;
+    top: 20px;
+    left: 55px;
+}
+
+.p1-2 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 34px;
+    position: relative;
+    top: 30px;
+    left: 24px;
+}
+
+.p1-2 svg {
+    width: 30px;
+    position: relative;
+    left: 5px;
+}
+
+.p1-3 {
+    font-size: 13px;
+    line-height: 1.3;
+    font-weight: 600;
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+
+.p1-4 {
+    font-size: 11.5px;
+    color: #999;
+    position: relative;
+    left: 30px;
+    top: 40px;
+}
+
+.accordion-area {
+    padding-left: 30px;
+    padding-right: 5px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+
+.accordion {
+    background-color: #e2e2e2;
+    font-family: Montserrat;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 12px;
+    padding-left: 20px;
+    width: 82%;
+    height: 40px;
+    border-radius: 15px;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+.active {
+    border-radius: 15px 15px 0 0;
+}
+
+
+.panel {
+    width: 322px;
+    position: relative;
+    top: -5px;
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    border-radius: 0 0 15px 15px;
+}
+
+#slpit div {
+    width: 50%;
+    padding-left: 6px;
+    padding-top: 12px;
+}
+
+.p-l {
+    float: left;
+}
+
+.p-r {
+    float: right;
+    padding-left: 24px !important;
+}
+
+#slpit p {
+    margin: 0;
+    font-size: 11px;
+    line-height: 1.8;
+    font-weight: 500;
+}
+
+.hid {
+    opacity: 0;
+    font-size: 15px;
+}
+
+.accordion:after {
+    content: '+';
+    font-size: 15px;
+    color: #000;
+    float: right;
+    margin-right: 15px;
+}
+
+.active:after {
+    content: '-';
+}
+
+.p1-5 {
+    position: relative;
+    top: 35px;
+    left: -30px;
+    font-size: 14px;
+    white-space: pre;
+    font-weight: 800;
+    line-height: 1.1;
+}
+
+.question button {
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    width: 330px;
+    border: 0;
+    border-radius: 25px;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 25px;
+    position: relative;
+    left: 30px;
+    top: 22px;
+}
+
+button span {
+    float: left;
+}
+
+.question svg {
+    stroke: white;
+    stroke-width: 1px;
+    float: right;
+}
+
+
+.center {
+    width: 33%;
+}
+  
+.main-img {
+    position: relative;
+}
+
+.main-img img {
+    width: 480px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: white;
+    position: relative;
+    left: -45px;
+    border: 1px solid #d5d5d5;
+    object-fit: contain;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.elipse {
+    width: 108%;
+    height: 200px;
+    clip-path: ellipse(8% 28% at 39% calc(100% - 200px));
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+    .elipse span {
+        position: relative;
+        left: 188px;
+        color: #D8AD55;
+        top: 14px;
+        font-weight: 600;
+    }
+
+.carousel-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: -35px;
+    margin-top: 25px;
+}
+
+.carousel {
+    overflow: hidden;
+    width: 500px;
+}
+
+.carousel-track {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    gap: 12px;
+}
+
+.carousel-image {
+    width: 85px;
+    height: 85px;
+    object-fit: cover;  
+    background-color: black;
+}
+
+.carousel-indicator {
+    margin-top: 20px;
+    margin-left: -40px;
+    font-size: 14px;
+    font-family: 'Montserrat';
+}
+
+.buttons {
+    position: relative;
+    top: -14px;
+    left: 73px;
+}
+
+.buttons button {
+    background-color: transparent;
+    border: 0;
+    width: 60px;
+}
+
+.right {
+    width: 30%;
+    height: 100%;
+    padding-right: 45px;
+}
+
+.back {
+    float: right;
+    text-decoration: none;
+    color: #ccc;
+    margin-top: 17px;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    font-size: 10px;
+}
+
+.back:hover {
+    color: #ccc;
+}
+
+.price {
+    width: 100%;
+    height: 360px;
+    background-color: white;
+    margin-top: 55px;
+    border-radius: 10px;
+}
+
+.timer {
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    border-radius: 10px 10px 0 0;
+}
+
+.countdown-area {
+    display: flex;
+    gap: 5px;
+}
+
+.countdown-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: -5px;
+    left: 111px;
+    font-family: Montserrat;
+}
+
+.countdown-text {
+    font-size: 22px;
+    color: #D8AD55;
+    font-weight: bold;
+}
+
+.timer {
+    position: relative;
+}
+
+    .timer svg {
+        width: 21px;
+        fill: #D8AD55;
+        position: relative;
+        top: 22px;
+        left: 86px;
+    }
+
+.timer p {
+    color: white;
+    text-align: center;
+    margin-top: -10px;
+    font-size: 11px;
+}
+
+.base-value {
+    display: flex;
+    padding: 15px 21px;
+    gap: 220px;
+    font-size: 15px;
+}
+
+.last-value {
+    position: relative;
+    top: -15px;
+    padding: 0 21px;
+}
+
+.last-value p {
+    margin: 0;
+}
+
+.p2-1 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.p2-2 {
+    text-align: end;
+    font-size: 28px;
+    font-weight: bold;
+    position: relative;
+    top: -12px;
+    left: -5px;
+}
+
+    .p2-2 svg {
+        fill: #D8AD55;
+        width: 20px;
+    }
+
+.p2-3 {
+    font-size: 11px;
+    position: relative;
+    top: -20px;
+}
+
+.p2-3 span {
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.btn-1 {
+    border-radius: 20px;
+    background-color: transparent;
+    border: 1px solid #000;
+    width: 175px;
+    height: 40px;
+    padding-left: 22px;
+    font-size: 11px;
+    font-weight: 500;
+    text-align: start;
+    font-family: 'Montserrat';
+    position: relative;
+    left: 20px;
+    top: -15px;
+}
+
+    .btn-1 i {
+        position: relative;
+        left: 20px;
+    }
+
+.btn-2 {
+    background-color: #D8AD55;
+    border-radius: 20px;
+    border: 0;
+    width: 150px;
+    height: 40px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-size: 11px;
+    font-weight: bold;
+    position: relative;
+    left: 10px;
+    top: -15px;
+}
+
+.p2-4 {
+    font-size: 12.5px;
+    font-weight: 600;
+    position: relative;
+    top: 10px;
+    left: 50px;
+    margin-bottom: 24px;
+}
+
+
+.input-area {
+    width: 347px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 0 5px;
+    margin: 0 20px;
+    border-radius: 30px;
+    background-color: #e5e5e5;
+    position: relative;
+    height: 40px;
+}
+
+input[type="text"] {
+    flex: 1;
+    border: none;
+    padding: 0 15px;
+    font-size: 11px;
+    background-color: #e5e5e5;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+#myButton {
+    width: 150px;
+    height: 100%;
+    cursor: pointer;
+    background-color: #8c8c8c;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: #ccc;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 30px;
+    position: relative;
+    left: 5px;
+}
+
+.p2-5 {
+    font-size: 8px;
+    font-style: italic;
+    position: relative;
+    top: 15px;
+    left: 42px;
+}
+
+    .p2-5 svg {
+        width: 12px;
+        position: relative;
+        right: 18px;
+    }
+
+.last-bid {
+    width: 100%;
+    height: 305px;
+    background-color: #fff;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: #e5e5e5;
+    border-radius: 15px 15px 0 0;
+}
+
+.p2-6 {
+    font-weight: bold;
+    font-size: 14px;
+    padding: 17px 20px;
+    padding-right: 30px;
+}
+
+.p2-6 span {
+    float: right;
+}
+
+    .p2-6 span svg {
+        width: 14px;
+        fill: black;    
+    }
+
+    .top-section {
+        text-transform: uppercase;
+        color: #000;
+        font-weight: bold;
+        font-size: 10px;
+        margin-top: 20px;
+        margin-left: 35px;
+        font-family: 'Montserrat';
+    }
+
+.value .top-section ,.value .p2-7 {
+    text-align: end;
+    margin-right: 40px;
+}
+
+.bids .col-4 {
+    padding: 0 !important;
+}
+
+.p2-7 {
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 28px;
+}

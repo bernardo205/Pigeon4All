@@ -1,0 +1,505 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\css\\auction.css",
+      "PackagePath": "staticwebassets\\css\\auction.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\css\\pigeon.css",
+      "PackagePath": "staticwebassets\\css\\pigeon.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\0963f6e7-1836-4f46-bb24-f7c1f13e83d0 - Cópia.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\0963f6e7-1836-4f46-bb24-f7c1f13e83d0 - Cópia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\0963f6e7-1836-4f46-bb24-f7c1f13e83d0.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\0963f6e7-1836-4f46-bb24-f7c1f13e83d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\0ab77d35-ebb8-42af-aab4-3f9a9bb8e31a.png",
+      "PackagePath": "staticwebassets\\img\\Imagens\\0ab77d35-ebb8-42af-aab4-3f9a9bb8e31a.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\12f3dd61-ba8f-4d78-8082-8971cedec893 - Cópia.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\12f3dd61-ba8f-4d78-8082-8971cedec893 - Cópia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\12f3dd61-ba8f-4d78-8082-8971cedec893.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\12f3dd61-ba8f-4d78-8082-8971cedec893.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\2020-06-17-mooie-prestaties-belgie-als-de-mooie-prestaties-nederland-v4-mw_42.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\2020-06-17-mooie-prestaties-belgie-als-de-mooie-prestaties-nederland-v4-mw_42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\2023-01-03-new-auction-banner-v3_14.png",
+      "PackagePath": "staticwebassets\\img\\Imagens\\2023-01-03-new-auction-banner-v3_14.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\25fa9ab3-bae9-4ace-901a-2cb06f79ac80 - Cópia.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\25fa9ab3-bae9-4ace-901a-2cb06f79ac80 - Cópia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\25fa9ab3-bae9-4ace-901a-2cb06f79ac80.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\25fa9ab3-bae9-4ace-901a-2cb06f79ac80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\56291c6c-b8c3-405d-8f8f-88f66169f88a.png",
+      "PackagePath": "staticwebassets\\img\\Imagens\\56291c6c-b8c3-405d-8f8f-88f66169f88a.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\83152f24-50e0-4806-82a7-5ef1f74c499d.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\83152f24-50e0-4806-82a7-5ef1f74c499d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\BE20-6188508-600x600.jpg - Cópia.webp",
+      "PackagePath": "staticwebassets\\img\\Imagens\\BE20-6188508-600x600.jpg - Cópia.webp"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\BE20-6188508-600x600.jpg.webp",
+      "PackagePath": "staticwebassets\\img\\Imagens\\BE20-6188508-600x600.jpg.webp"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\GB23-D00976_dna_0 - Cópia.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\GB23-D00976_dna_0 - Cópia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\GB23-D00976_dna_0.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\GB23-D00976_dna_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\GB23-D00976_ped.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\GB23-D00976_ped.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\GB24-N33004_dna.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\GB24-N33004_dna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\GB24-N33004_ped_1.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\GB24-N33004_ped_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\LOGO-82.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\LOGO-82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\LOGO-new-Kim.jpg.webp",
+      "PackagePath": "staticwebassets\\img\\Imagens\\LOGO-new-Kim.jpg.webp"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\NL24-4633775.webp",
+      "PackagePath": "staticwebassets\\img\\Imagens\\NL24-4633775.webp"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\Pallatt KBDB Elite_2 (1).png",
+      "PackagePath": "staticwebassets\\img\\Imagens\\Pallatt KBDB Elite_2 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\Pallatt KBDB Elite_2.png",
+      "PackagePath": "staticwebassets\\img\\Imagens\\Pallatt KBDB Elite_2.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\ae3a71c2-9ea2-4338-863b-c3eab7c9b753 - Cópia.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\ae3a71c2-9ea2-4338-863b-c3eab7c9b753 - Cópia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\ae3a71c2-9ea2-4338-863b-c3eab7c9b753.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\ae3a71c2-9ea2-4338-863b-c3eab7c9b753.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\d4e6cb1e-1c1c-4808-adcd-94e010229556 - Cópia.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\d4e6cb1e-1c1c-4808-adcd-94e010229556 - Cópia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\d4e6cb1e-1c1c-4808-adcd-94e010229556.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\d4e6cb1e-1c1c-4808-adcd-94e010229556.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\e37f04f4-aada-42a5-a0d2-e32d5f8c180d.png",
+      "PackagePath": "staticwebassets\\img\\Imagens\\e37f04f4-aada-42a5-a0d2-e32d5f8c180d.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\f4d56ed8-8f45-4927-beed-5d2244a9350e - Cópia.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\f4d56ed8-8f45-4927-beed-5d2244a9350e - Cópia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\f4d56ed8-8f45-4927-beed-5d2244a9350e.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\f4d56ed8-8f45-4927-beed-5d2244a9350e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\pattaya-banner.jpg.webp",
+      "PackagePath": "staticwebassets\\img\\Imagens\\pattaya-banner.jpg.webp"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\pigeon4all-licite-pombo-21.png",
+      "PackagePath": "staticwebassets\\img\\Imagens\\pigeon4all-licite-pombo-21.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\pomba-belgica-campea-comprada-chines-16112020182825633.jpeg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\pomba-belgica-campea-comprada-chines-16112020182825633.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\pombo-new-kim-de-dois-anos-marcou-um-novo-recorde-em-leilao-1605470633805_v2_1920x1305.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\pombo-new-kim-de-dois-anos-marcou-um-novo-recorde-em-leilao-1605470633805_v2_1920x1305.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\Imagens\\tvi24.jpg",
+      "PackagePath": "staticwebassets\\img\\Imagens\\tvi24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-05.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-05.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-06.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-06.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-07.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-07.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-08.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-08.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-09.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-09.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-10.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-11.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-11.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-12.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-12.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-13.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-13.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-14.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-14.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-15.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-15.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-16.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-16.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-17.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-17.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-18.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-18.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-19.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-19.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\icones\\icone-20.svg",
+      "PackagePath": "staticwebassets\\img\\icones\\icone-20.svg"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\logotipo\\favicone-pigeon4all.png",
+      "PackagePath": "staticwebassets\\img\\logotipo\\favicone-pigeon4all.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\logotipo\\logo_pigeon4all_horiz_branco.png",
+      "PackagePath": "staticwebassets\\img\\logotipo\\logo_pigeon4all_horiz_branco.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\logotipo\\logo_pigeon4all_horiz_dourado-branco.png",
+      "PackagePath": "staticwebassets\\img\\logotipo\\logo_pigeon4all_horiz_dourado-branco.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\logotipo\\logo_pigeon4all_horiz_original.png",
+      "PackagePath": "staticwebassets\\img\\logotipo\\logo_pigeon4all_horiz_original.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\logotipo\\logo_pigeon4all_vert_branco.png",
+      "PackagePath": "staticwebassets\\img\\logotipo\\logo_pigeon4all_vert_branco.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\logotipo\\logo_pigeon4all_vert_dourado-branco.png",
+      "PackagePath": "staticwebassets\\img\\logotipo\\logo_pigeon4all_vert_dourado-branco.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\img\\logotipo\\logo_pigeon4all_vert_original.png",
+      "PackagePath": "staticwebassets\\img\\logotipo\\logo_pigeon4all_vert_original.png"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berna\\Desktop\\isla\\Estagio\\Pigeons4all\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pigeons4all.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pigeons4all.props",
+      "PackagePath": "build\\Pigeons4all.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pigeons4all.props",
+      "PackagePath": "buildMultiTargeting\\Pigeons4all.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pigeons4all.props",
+      "PackagePath": "buildTransitive\\Pigeons4all.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
